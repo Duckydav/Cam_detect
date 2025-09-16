@@ -61,7 +61,7 @@ python src/main.py
 - **Pandas**: Analyse de données
 
 ## Données Test
-Le dossier `test_camera/` contient plus de 100 fichiers vidéo MP4 de surveillance réelle, parfait pour développer et tester le système d'analyse.
+Le dossier `test_camera/` contient 1 fichiers vidéo MP4 de surveillance réelle, parfait pour développer et tester le système d'analyse.
 
 ## Auteur
 David François - Développement pour analyse de circulation urbaine
