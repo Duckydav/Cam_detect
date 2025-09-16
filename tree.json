@@ -1,0 +1,41 @@
+{
+  "video_path": "C:/Users/David/Documents/Cam_detect/test_camera/08H58M29S-14400WN-SO00.mp4",
+  "frame_dimensions": [
+    1920,
+    1080
+  ],
+  "exclusion_zones": [
+    {
+      "name": "exclusion_1",
+      "type": "exclusion",
+      "polygon": [
+        [
+          273,
+          -163
+        ],
+        [
+          924,
+          -165
+        ],
+        [
+          979,
+          314
+        ],
+        [
+          739,
+          530
+        ],
+        [
+          415,
+          477
+        ],
+        [
+          266,
+          -165
+        ]
+      ],
+      "active": true
+    }
+  ],
+  "inclusion_zones": []
+}

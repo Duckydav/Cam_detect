@@ -1,0 +1,1 @@
+# Package models - Classes et modèles de données pour Cam_detect

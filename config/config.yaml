@@ -1,0 +1,67 @@
+# Configuration Cam_detect - Analyse de Circulation
+
+# Modèle YOLOv8
+model:
+  name: "yolov8n.pt"  # nano pour rapidité, upgrade vers yolov8s.pt si besoin
+  confidence: 0.5     # Seuil de confiance pour détections
+  iou_threshold: 0.45 # Seuil IoU pour suppression non-maximale
+  device: "auto"      # auto, cpu, ou cuda:0
+
+# Classes d'objets à détecter (COCO dataset)
+detection_classes:
+  car: [2]           # Voitures
+  truck: [7]         # Camions
+  bus: [5]           # Bus/Gros camions
+  person: [0]        # Piétons
+  # Note: Détection "piéton avec chien" nécessitera logique custom
+
+# Traitement vidéo
+video:
+  input_dir: "test_camera"
+  output_dir: "data/output"
+  cache_dir: "data/cache"
+
+  # Paramètres de traitement
+  fps_analysis: 5     # Analyser 1 frame sur 5 (économise ressources)
+  resize_width: 640   # Redimensionner vidéo pour performance
+  skip_frames: 0      # Frames à ignorer au début
+  max_frames: 0       # 0 = toute la vidéo
+
+# Zone de détection (optionnel - ROI)
+detection_zone:
+  enabled: false
+  x1: 0      # Coin supérieur gauche
+  y1: 0
+  x2: 1920   # Coin inférieur droit
+  y2: 1080
+
+# Tracking d'objets
+tracking:
+  enabled: true
+  method: "bytetrack"  # ByteTrack pour suivi multi-objets
+  track_buffer: 30     # Frames de buffer pour tracking
+
+# Interface utilisateur
+gui:
+  theme: "dark"
+  window_size: [1200, 800]
+  preview_size: [640, 480]
+
+# Logs et debugging
+logging:
+  level: "INFO"        # DEBUG, INFO, WARNING, ERROR
+  file: "logs/cam_detect.log"
+  max_size: 10         # MB
+  backup_count: 3
+
+# Sauvegarde résultats
+output:
+  save_video: true     # Sauvegarder vidéo avec détections
+  save_stats: true     # Sauvegarder statistiques CSV
+  save_images: false   # Sauvegarder frames avec détections
+
+# Performance
+performance:
+  batch_size: 1        # Nombre d'images traitées simultanément
+  num_workers: 2       # Threads pour chargement données
+  gpu_memory_limit: 0.8 # Limite utilisation GPU (0.0-1.0)

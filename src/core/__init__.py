@@ -1,0 +1,1 @@
+# Package core - Moteur de détection et analyse pour Cam_detect

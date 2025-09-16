@@ -1,0 +1,100 @@
+{
+  "video_path": "C:/Users/David/Documents/Cam_detect/test_camera/08H58M29S-14400WN-SO00.mp4",
+  "frame_dimensions": [
+    1920,
+    1080
+  ],
+  "exclusion_zones": [
+    {
+      "name": "exclusion_1",
+      "type": "exclusion",
+      "polygon": [
+        [
+          273,
+          -163
+        ],
+        [
+          924,
+          -165
+        ],
+        [
+          979,
+          314
+        ],
+        [
+          739,
+          530
+        ],
+        [
+          415,
+          477
+        ],
+        [
+          266,
+          -165
+        ]
+      ],
+      "active": true
+    },
+    {
+      "name": "exclusion_3",
+      "type": "exclusion",
+      "polygon": [
+        [
+          276,
+          -175
+        ],
+        [
+          364,
+          189
+        ],
+        [
+          2,
+          192
+        ],
+        [
+          9,
+          -165
+        ],
+        [
+          276,
+          -172
+        ]
+      ],
+      "active": true
+    }
+  ],
+  "inclusion_zones": [
+    {
+      "name": "inclusion_2",
+      "type": "inclusion",
+      "polygon": [
+        [
+          979,
+          151
+        ],
+        [
+          969,
+          -4
+        ],
+        [
+          1929,
+          -7
+        ],
+        [
+          1924,
+          518
+        ],
+        [
+          1012,
+          492
+        ],
+        [
+          979,
+          148
+        ]
+      ],
+      "active": true
+    }
+  ]
+}

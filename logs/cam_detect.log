@@ -1,0 +1,235 @@
+2025-09-14 18:07:55 | INFO     | utils.logger:setup_logger:51 - Logger initialisé - Niveau: INFO
+2025-09-14 18:07:55 | INFO     | utils.logger:setup_logger:52 - Fichier de log: C:\Users\David\Documents\Cam_detect\logs\cam_detect.log
+2025-09-14 18:07:55 | INFO     | __main__:main:37 - Démarrage de Cam_detect
+2025-09-14 18:07:55 | INFO     | utils.config_manager:load_config:45 - Configuration chargée depuis: C:\Users\David\Documents\Cam_detect\config\config.yaml
+2025-09-14 18:07:55 | INFO     | __main__:main:47 - Lancement de l'interface utilisateur
+2025-09-14 18:07:55 | INFO     | gui.main_window:run:471 - Interface utilisateur démarrée
+2025-09-14 18:08:04 | INFO     | gui.main_window:_select_video:272 - Vidéo sélectionnée: 08H58M29S-14400WN-SO00.mp4
+2025-09-14 18:08:08 | INFO     | gui.main_window:_start_analysis:332 - Analyse démarrée
+2025-09-14 18:08:45 | INFO     | gui.main_window:_start_analysis:332 - Analyse démarrée
+2025-09-14 18:09:41 | INFO     | gui.main_window:_start_analysis:332 - Analyse démarrée
+2025-09-14 18:10:05 | INFO     | gui.main_window:_start_analysis:332 - Analyse démarrée
+2025-09-14 18:10:55 | INFO     | gui.main_window:_select_video:272 - Vidéo sélectionnée: 09H01M28S-14400WN-SO01.mp4
+2025-09-14 18:10:57 | INFO     | gui.main_window:_start_analysis:332 - Analyse démarrée
+2025-09-14 18:24:23 | INFO     | utils.logger:setup_logger:51 - Logger initialisé - Niveau: INFO
+2025-09-14 18:24:23 | INFO     | utils.logger:setup_logger:52 - Fichier de log: C:\Users\David\Documents\Cam_detect\logs\cam_detect.log
+2025-09-14 18:24:23 | INFO     | __main__:main:37 - Démarrage de Cam_detect
+2025-09-14 18:24:23 | INFO     | utils.config_manager:load_config:45 - Configuration chargée depuis: C:\Users\David\Documents\Cam_detect\config\config.yaml
+2025-09-14 18:24:24 | INFO     | __main__:main:47 - Lancement de l'interface utilisateur
+2025-09-14 18:24:24 | INFO     | gui.main_window:run:573 - Interface utilisateur démarrée
+2025-09-14 18:24:33 | INFO     | gui.main_window:_select_video:298 - Vidéo sélectionnée: 08H58M29S-14400WN-SO00.mp4
+2025-09-14 18:24:34 | ERROR    | gui.main_window:_run_analysis:405 - Erreur pendant l'analyse: attempted relative import beyond top-level package
+2025-09-14 18:24:34 | INFO     | gui.main_window:_start_analysis:358 - Analyse démarrée
+2025-09-14 18:24:49 | INFO     | gui.main_window:_select_video:298 - Vidéo sélectionnée: 09H01M28S-14400WN-SO01.mp4
+2025-09-14 18:24:50 | ERROR    | gui.main_window:_run_analysis:405 - Erreur pendant l'analyse: attempted relative import beyond top-level package
+2025-09-14 18:24:50 | INFO     | gui.main_window:_start_analysis:358 - Analyse démarrée
+2025-09-14 18:25:01 | INFO     | utils.logger:setup_logger:51 - Logger initialisé - Niveau: INFO
+2025-09-14 18:25:01 | INFO     | utils.logger:setup_logger:52 - Fichier de log: C:\Users\David\Documents\Cam_detect\logs\cam_detect.log
+2025-09-14 18:25:01 | INFO     | __main__:main:37 - Démarrage de Cam_detect
+2025-09-14 18:25:01 | INFO     | utils.config_manager:load_config:45 - Configuration chargée depuis: C:\Users\David\Documents\Cam_detect\config\config.yaml
+2025-09-14 18:25:02 | INFO     | __main__:main:47 - Lancement de l'interface utilisateur
+2025-09-14 18:25:02 | INFO     | gui.main_window:run:573 - Interface utilisateur démarrée
+2025-09-14 18:25:07 | INFO     | gui.main_window:_select_video:298 - Vidéo sélectionnée: 09H05M45S-14400WN-5200.mp4
+2025-09-14 18:25:09 | ERROR    | gui.main_window:_run_analysis:405 - Erreur pendant l'analyse: attempted relative import beyond top-level package
+2025-09-14 18:25:09 | INFO     | gui.main_window:_start_analysis:358 - Analyse démarrée
+2025-09-14 18:26:55 | INFO     | utils.logger:setup_logger:51 - Logger initialisé - Niveau: INFO
+2025-09-14 18:26:55 | INFO     | utils.logger:setup_logger:52 - Fichier de log: C:\Users\David\Documents\Cam_detect\logs\cam_detect.log
+2025-09-14 18:26:55 | INFO     | __main__:main:37 - Démarrage de Cam_detect
+2025-09-14 18:26:55 | INFO     | utils.config_manager:load_config:45 - Configuration chargée depuis: C:\Users\David\Documents\Cam_detect\config\config.yaml
+2025-09-14 18:26:55 | INFO     | __main__:main:47 - Lancement de l'interface utilisateur
+2025-09-14 18:26:55 | INFO     | gui.main_window:run:571 - Interface utilisateur démarrée
+2025-09-14 18:26:59 | INFO     | gui.main_window:_select_video:298 - Vidéo sélectionnée: 08H58M29S-14400WN-SO00.mp4
+2025-09-14 18:27:00 | INFO     | gui.main_window:_start_analysis:358 - Analyse démarrée
+2025-09-14 18:27:00 | INFO     | gui.main_window:_run_analysis:391 - Analyse simulée démarrée (version temporaire)
+2025-09-14 18:27:00 | INFO     | gui.temp_analysis_fix:run_simple_analysis:28 - Analyse démarrée: 3616 frames, 20.128026718619537 FPS
+2025-09-14 18:27:19 | INFO     | gui.temp_analysis_fix:run_simple_analysis:197 - Analyse terminée: 183 frames avec détections
+2025-09-14 18:27:22 | INFO     | gui.verification_window:_prepare_detections_data:61 - Préparation des données de détections par classe
+2025-09-14 18:27:22 | INFO     | gui.verification_window:_prepare_detections_data:96 - Classes trouvées: ['truck', 'bus', 'car', 'person']
+2025-09-14 18:27:22 | INFO     | gui.verification_window:_prepare_detections_data:98 -   truck: 46 détections
+2025-09-14 18:27:22 | INFO     | gui.verification_window:_prepare_detections_data:98 -   bus: 16 détections
+2025-09-14 18:27:22 | INFO     | gui.verification_window:_prepare_detections_data:98 -   car: 124 détections
+2025-09-14 18:27:22 | INFO     | gui.verification_window:_prepare_detections_data:98 -   person: 67 détections
+2025-09-14 18:27:22 | INFO     | gui.verification_window:_open_video:318 - Vidéo ouverte pour vérification
+2025-09-14 18:27:22 | INFO     | gui.main_window:_open_verification_window:526 - Fenêtre de vérification ouverte
+2025-09-14 18:27:33 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: bus
+2025-09-14 18:27:38 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: car
+2025-09-14 18:27:42 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: truck
+2025-09-14 18:27:46 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: bus
+2025-09-14 18:28:11 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: person
+2025-09-14 18:28:45 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: car
+2025-09-14 18:32:11 | INFO     | gui.verification_window:_prepare_detections_data:61 - Préparation des données de détections par classe
+2025-09-14 18:32:11 | INFO     | gui.verification_window:_prepare_detections_data:96 - Classes trouvées: ['truck', 'bus', 'car', 'person']
+2025-09-14 18:32:11 | INFO     | gui.verification_window:_prepare_detections_data:98 -   truck: 46 détections
+2025-09-14 18:32:11 | INFO     | gui.verification_window:_prepare_detections_data:98 -   bus: 16 détections
+2025-09-14 18:32:11 | INFO     | gui.verification_window:_prepare_detections_data:98 -   car: 124 détections
+2025-09-14 18:32:11 | INFO     | gui.verification_window:_prepare_detections_data:98 -   person: 67 détections
+2025-09-14 18:32:11 | INFO     | gui.verification_window:_open_video:318 - Vidéo ouverte pour vérification
+2025-09-14 18:32:11 | INFO     | gui.main_window:_open_verification_window:526 - Fenêtre de vérification ouverte
+2025-09-14 18:40:21 | INFO     | utils.logger:setup_logger:51 - Logger initialisé - Niveau: INFO
+2025-09-14 18:40:21 | INFO     | utils.logger:setup_logger:52 - Fichier de log: C:\Users\David\Documents\Cam_detect\logs\cam_detect.log
+2025-09-14 18:40:21 | INFO     | __main__:main:37 - Démarrage de Cam_detect
+2025-09-14 18:40:21 | INFO     | utils.config_manager:load_config:45 - Configuration chargée depuis: C:\Users\David\Documents\Cam_detect\config\config.yaml
+2025-09-14 18:40:22 | INFO     | __main__:main:47 - Lancement de l'interface utilisateur
+2025-09-14 18:40:22 | INFO     | gui.main_window:run:652 - Interface utilisateur démarrée
+2025-09-14 18:40:30 | INFO     | gui.main_window:_select_video:314 - Vidéo sélectionnée: 08H58M29S-14400WN-SO00.mp4
+2025-09-14 18:40:42 | INFO     | gui.main_window:_open_roi_setup:611 - Fenêtre de configuration ROI ouverte
+2025-09-14 18:41:17 | INFO     | gui.roi_setup_window:_finish_current_zone:485 - Zone exclusion ajoutée: exclusion_1
+2025-09-14 18:41:35 | INFO     | gui.main_window:_open_roi_setup:611 - Fenêtre de configuration ROI ouverte
+2025-09-14 18:41:57 | INFO     | gui.roi_setup_window:_finish_current_zone:485 - Zone exclusion ajoutée: exclusion_1
+2025-09-14 18:42:29 | INFO     | gui.main_window:_open_roi_setup:611 - Fenêtre de configuration ROI ouverte
+2025-09-14 18:42:40 | INFO     | gui.roi_setup_window:_finish_current_zone:485 - Zone exclusion ajoutée: exclusion_1
+2025-09-14 18:43:02 | INFO     | gui.roi_setup_window:_save_configuration:603 - Configuration ROI sauvegardée: C:/Users/David/Documents/Cam_detect/tree.json
+2025-09-14 18:43:11 | INFO     | gui.main_window:_on_roi_configured:640 - Configuration ROI appliquée: 1 zones
+2025-09-14 18:43:11 | INFO     | gui.roi_setup_window:_apply_and_close:656 - Configuration ROI appliquée et fenêtre fermée
+2025-09-14 18:43:13 | INFO     | gui.main_window:_start_analysis:374 - Analyse démarrée
+2025-09-14 18:43:13 | INFO     | gui.main_window:_run_analysis:407 - Analyse simulée démarrée (version temporaire)
+2025-09-14 18:43:13 | INFO     | gui.temp_analysis_fix:run_simple_analysis:28 - Analyse démarrée: 3616 frames, 20.128026718619537 FPS
+2025-09-14 18:43:31 | INFO     | gui.temp_analysis_fix:run_simple_analysis:197 - Analyse terminée: 164 frames avec détections
+2025-09-14 18:43:35 | INFO     | gui.verification_window:_prepare_detections_data:61 - Préparation des données de détections par classe
+2025-09-14 18:43:35 | INFO     | gui.verification_window:_prepare_detections_data:96 - Classes trouvées: ['car', 'truck', 'person', 'bus']
+2025-09-14 18:43:35 | INFO     | gui.verification_window:_prepare_detections_data:98 -   car: 125 détections
+2025-09-14 18:43:35 | INFO     | gui.verification_window:_prepare_detections_data:98 -   truck: 37 détections
+2025-09-14 18:43:35 | INFO     | gui.verification_window:_prepare_detections_data:98 -   person: 55 détections
+2025-09-14 18:43:35 | INFO     | gui.verification_window:_prepare_detections_data:98 -   bus: 11 détections
+2025-09-14 18:43:35 | INFO     | gui.verification_window:_open_video:318 - Vidéo ouverte pour vérification
+2025-09-14 18:43:35 | INFO     | gui.main_window:_open_verification_window:542 - Fenêtre de vérification ouverte
+2025-09-14 18:43:50 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: person
+2025-09-14 18:44:03 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: car
+2025-09-14 18:44:16 | INFO     | gui.main_window:_open_roi_setup:611 - Fenêtre de configuration ROI ouverte
+2025-09-14 18:44:30 | INFO     | gui.roi_setup_window:_finish_current_zone:485 - Zone exclusion ajoutée: exclusion_2
+2025-09-14 18:44:42 | ERROR    | gui.main_window:_export_results:582 - Erreur export: bad option "-initialname": must be -confirmoverwrite, -defaultextension, -filetypes, -initialdir, -initialfile, -parent, -title, or -typevariable
+2025-09-14 18:44:47 | INFO     | gui.main_window:_open_roi_setup:611 - Fenêtre de configuration ROI ouverte
+2025-09-14 18:44:59 | INFO     | gui.roi_setup_window:_load_configuration:628 - Configuration ROI chargée: C:/Users/David/Documents/Cam_detect/tree.json
+2025-09-14 18:45:08 | INFO     | gui.main_window:_open_roi_setup:611 - Fenêtre de configuration ROI ouverte
+2025-09-14 18:45:21 | INFO     | gui.roi_setup_window:_load_configuration:628 - Configuration ROI chargée: C:/Users/David/Documents/Cam_detect/tree.json
+2025-09-14 18:45:41 | INFO     | gui.roi_setup_window:_finish_current_zone:485 - Zone inclusion ajoutée: inclusion_2
+2025-09-14 18:46:02 | INFO     | gui.roi_setup_window:_save_configuration:603 - Configuration ROI sauvegardée: C:/Users/David/Documents/Cam_detect/tree_route.json
+2025-09-14 18:46:15 | INFO     | gui.main_window:_on_roi_configured:640 - Configuration ROI appliquée: 2 zones
+2025-09-14 18:46:15 | INFO     | gui.roi_setup_window:_apply_and_close:656 - Configuration ROI appliquée et fenêtre fermée
+2025-09-14 18:46:19 | INFO     | gui.main_window:_start_analysis:374 - Analyse démarrée
+2025-09-14 18:46:19 | INFO     | gui.main_window:_run_analysis:407 - Analyse simulée démarrée (version temporaire)
+2025-09-14 18:46:19 | INFO     | gui.temp_analysis_fix:run_simple_analysis:28 - Analyse démarrée: 3616 frames, 20.128026718619537 FPS
+2025-09-14 18:46:39 | INFO     | gui.temp_analysis_fix:run_simple_analysis:197 - Analyse terminée: 167 frames avec détections
+2025-09-14 18:46:44 | INFO     | gui.verification_window:_prepare_detections_data:61 - Préparation des données de détections par classe
+2025-09-14 18:46:44 | INFO     | gui.verification_window:_prepare_detections_data:96 - Classes trouvées: ['car', 'person', 'truck', 'bus']
+2025-09-14 18:46:44 | INFO     | gui.verification_window:_prepare_detections_data:98 -   car: 113 détections
+2025-09-14 18:46:44 | INFO     | gui.verification_window:_prepare_detections_data:98 -   person: 65 détections
+2025-09-14 18:46:44 | INFO     | gui.verification_window:_prepare_detections_data:98 -   truck: 43 détections
+2025-09-14 18:46:44 | INFO     | gui.verification_window:_prepare_detections_data:98 -   bus: 18 détections
+2025-09-14 18:46:44 | INFO     | gui.verification_window:_open_video:318 - Vidéo ouverte pour vérification
+2025-09-14 18:46:44 | INFO     | gui.main_window:_open_verification_window:542 - Fenêtre de vérification ouverte
+2025-09-14 18:46:58 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: car
+2025-09-14 18:47:03 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: person
+2025-09-14 18:47:09 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: truck
+2025-09-14 18:47:28 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: bus
+2025-09-14 18:47:39 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: car
+2025-09-14 18:48:26 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: bus
+2025-09-14 20:09:33 | INFO     | gui.main_window:_open_roi_setup:611 - Fenêtre de configuration ROI ouverte
+2025-09-14 20:10:05 | INFO     | gui.roi_setup_window:_finish_current_zone:485 - Zone exclusion ajoutée: exclusion_3
+2025-09-14 20:10:22 | INFO     | gui.roi_setup_window:_save_configuration:603 - Configuration ROI sauvegardée: C:/Users/David/Documents/Cam_detect/tree_route.json
+2025-09-14 20:10:23 | INFO     | gui.roi_setup_window:_load_configuration:628 - Configuration ROI chargée: C:/Users/David/Documents/Cam_detect/tree_route.json
+2025-09-14 20:10:41 | INFO     | gui.roi_setup_window:_save_configuration:603 - Configuration ROI sauvegardée: C:/Users/David/Documents/Cam_detect/tree_route.json
+2025-09-14 20:11:26 | INFO     | gui.main_window:_on_roi_configured:640 - Configuration ROI appliquée: 3 zones
+2025-09-14 20:11:26 | INFO     | gui.roi_setup_window:_apply_and_close:656 - Configuration ROI appliquée et fenêtre fermée
+2025-09-14 20:11:28 | INFO     | gui.main_window:_on_roi_configured:640 - Configuration ROI appliquée: 3 zones
+2025-09-14 20:11:28 | INFO     | gui.roi_setup_window:_apply_and_close:656 - Configuration ROI appliquée et fenêtre fermée
+2025-09-14 20:11:39 | INFO     | gui.main_window:_start_analysis:374 - Analyse démarrée
+2025-09-14 20:11:39 | INFO     | gui.main_window:_run_analysis:407 - Analyse simulée démarrée (version temporaire)
+2025-09-14 20:11:39 | INFO     | gui.temp_analysis_fix:run_simple_analysis:28 - Analyse démarrée: 3616 frames, 20.128026718619537 FPS
+2025-09-14 20:11:59 | INFO     | gui.temp_analysis_fix:run_simple_analysis:197 - Analyse terminée: 161 frames avec détections
+2025-09-14 20:12:04 | INFO     | gui.verification_window:_prepare_detections_data:61 - Préparation des données de détections par classe
+2025-09-14 20:12:04 | INFO     | gui.verification_window:_prepare_detections_data:96 - Classes trouvées: ['person', 'truck', 'car', 'bus']
+2025-09-14 20:12:04 | INFO     | gui.verification_window:_prepare_detections_data:98 -   person: 49 détections
+2025-09-14 20:12:04 | INFO     | gui.verification_window:_prepare_detections_data:98 -   truck: 41 détections
+2025-09-14 20:12:04 | INFO     | gui.verification_window:_prepare_detections_data:98 -   car: 120 détections
+2025-09-14 20:12:04 | INFO     | gui.verification_window:_prepare_detections_data:98 -   bus: 14 détections
+2025-09-14 20:12:05 | INFO     | gui.verification_window:_open_video:318 - Vidéo ouverte pour vérification
+2025-09-14 20:12:05 | INFO     | gui.main_window:_open_verification_window:542 - Fenêtre de vérification ouverte
+2025-09-14 20:12:33 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: car
+2025-09-14 20:32:17 | INFO     | utils.logger:setup_logger:51 - Logger initialisé - Niveau: INFO
+2025-09-14 20:32:17 | INFO     | utils.logger:setup_logger:52 - Fichier de log: C:\Users\David\Documents\Cam_detect\logs\cam_detect.log
+2025-09-14 20:32:17 | INFO     | __main__:main:37 - Démarrage de Cam_detect
+2025-09-14 20:32:17 | INFO     | utils.config_manager:load_config:45 - Configuration chargée depuis: C:\Users\David\Documents\Cam_detect\config\config.yaml
+2025-09-14 20:32:18 | INFO     | __main__:main:47 - Lancement de l'interface utilisateur
+2025-09-14 20:32:18 | INFO     | gui.main_window:run:653 - Interface utilisateur démarrée
+2025-09-14 20:32:23 | INFO     | gui.main_window:_select_video:314 - Vidéo sélectionnée: 08H58M29S-14400WN-SO00.mp4
+2025-09-14 20:32:26 | INFO     | gui.main_window:_start_analysis:374 - Analyse démarrée
+2025-09-14 20:32:26 | INFO     | gui.main_window:_run_analysis:408 - Analyse simulée démarrée (version temporaire)
+2025-09-14 20:32:26 | INFO     | gui.temp_analysis_fix:run_simple_analysis:28 - Analyse démarrée: 3616 frames, 20.128026718619537 FPS
+2025-09-14 20:32:44 | INFO     | gui.temp_analysis_fix:run_simple_analysis:244 - Analyse terminée: 196 frames avec détections
+2025-09-14 20:32:47 | INFO     | gui.verification_window:_prepare_detections_data:61 - Préparation des données de détections par classe
+2025-09-14 20:32:47 | INFO     | gui.verification_window:_prepare_detections_data:96 - Classes trouvées: ['car', 'person', 'truck', 'bus']
+2025-09-14 20:32:47 | INFO     | gui.verification_window:_prepare_detections_data:98 -   car: 132 détections
+2025-09-14 20:32:47 | INFO     | gui.verification_window:_prepare_detections_data:98 -   person: 76 détections
+2025-09-14 20:32:47 | INFO     | gui.verification_window:_prepare_detections_data:98 -   truck: 28 détections
+2025-09-14 20:32:47 | INFO     | gui.verification_window:_prepare_detections_data:98 -   bus: 49 détections
+2025-09-14 20:32:47 | INFO     | gui.verification_window:_open_video:318 - Vidéo ouverte pour vérification
+2025-09-14 20:32:47 | INFO     | gui.main_window:_open_verification_window:543 - Fenêtre de vérification ouverte
+2025-09-14 20:32:57 | INFO     | gui.main_window:_open_roi_setup:612 - Fenêtre de configuration ROI ouverte
+2025-09-14 20:33:20 | INFO     | gui.roi_setup_window:_finish_current_zone:485 - Zone exclusion ajoutée: exclusion_1
+2025-09-14 20:33:39 | INFO     | gui.main_window:_on_roi_configured:641 - Configuration ROI appliquée: 1 zones
+2025-09-14 20:33:39 | INFO     | gui.roi_setup_window:_apply_and_close:656 - Configuration ROI appliquée et fenêtre fermée
+2025-09-14 20:33:41 | INFO     | gui.main_window:_start_analysis:374 - Analyse démarrée
+2025-09-14 20:33:41 | INFO     | gui.main_window:_run_analysis:408 - Analyse simulée démarrée (version temporaire)
+2025-09-14 20:33:41 | INFO     | gui.temp_analysis_fix:run_simple_analysis:28 - Analyse démarrée: 3616 frames, 20.128026718619537 FPS
+2025-09-14 20:33:41 | INFO     | core.roi_filter:set_frame_dimensions:40 - Dimensions ROI définies: 1920x1080
+2025-09-14 20:33:41 | INFO     | gui.temp_analysis_fix:run_simple_analysis:52 - ROI activé: 1 exclusions, 0 inclusions
+2025-09-14 20:33:59 | INFO     | gui.temp_analysis_fix:run_simple_analysis:244 - Analyse terminée: 166 frames avec détections
+2025-09-14 20:34:01 | INFO     | gui.verification_window:_prepare_detections_data:61 - Préparation des données de détections par classe
+2025-09-14 20:34:01 | INFO     | gui.verification_window:_prepare_detections_data:96 - Classes trouvées: ['car', 'truck', 'person', 'bus']
+2025-09-14 20:34:01 | INFO     | gui.verification_window:_prepare_detections_data:98 -   car: 119 détections
+2025-09-14 20:34:01 | INFO     | gui.verification_window:_prepare_detections_data:98 -   truck: 32 détections
+2025-09-14 20:34:01 | INFO     | gui.verification_window:_prepare_detections_data:98 -   person: 53 détections
+2025-09-14 20:34:01 | INFO     | gui.verification_window:_prepare_detections_data:98 -   bus: 35 détections
+2025-09-14 20:34:02 | INFO     | gui.verification_window:_open_video:318 - Vidéo ouverte pour vérification
+2025-09-14 20:34:02 | INFO     | gui.main_window:_open_verification_window:543 - Fenêtre de vérification ouverte
+2025-09-14 20:34:27 | INFO     | gui.main_window:_start_analysis:374 - Analyse démarrée
+2025-09-14 20:34:27 | INFO     | gui.main_window:_run_analysis:408 - Analyse simulée démarrée (version temporaire)
+2025-09-14 20:34:27 | INFO     | gui.temp_analysis_fix:run_simple_analysis:28 - Analyse démarrée: 3616 frames, 20.128026718619537 FPS
+2025-09-14 20:34:27 | INFO     | core.roi_filter:set_frame_dimensions:40 - Dimensions ROI définies: 1920x1080
+2025-09-14 20:34:27 | INFO     | gui.temp_analysis_fix:run_simple_analysis:52 - ROI activé: 1 exclusions, 0 inclusions
+2025-09-14 20:34:46 | INFO     | gui.temp_analysis_fix:run_simple_analysis:244 - Analyse terminée: 174 frames avec détections
+2025-09-14 20:58:39 | INFO     | gui.main_window:_open_roi_setup:612 - Fenêtre de configuration ROI ouverte
+2025-09-14 20:59:10 | INFO     | gui.roi_setup_window:_finish_current_zone:485 - Zone exclusion ajoutée: exclusion_6
+2025-09-14 20:59:21 | INFO     | gui.main_window:_open_roi_setup:612 - Fenêtre de configuration ROI ouverte
+2025-09-14 20:59:30 | INFO     | gui.verification_window:_prepare_detections_data:61 - Préparation des données de détections par classe
+2025-09-14 20:59:30 | INFO     | gui.verification_window:_prepare_detections_data:96 - Classes trouvées: ['car', 'truck', 'person', 'bus']
+2025-09-14 20:59:30 | INFO     | gui.verification_window:_prepare_detections_data:98 -   car: 106 détections
+2025-09-14 20:59:30 | INFO     | gui.verification_window:_prepare_detections_data:98 -   truck: 23 détections
+2025-09-14 20:59:30 | INFO     | gui.verification_window:_prepare_detections_data:98 -   person: 77 détections
+2025-09-14 20:59:30 | INFO     | gui.verification_window:_prepare_detections_data:98 -   bus: 34 détections
+2025-09-14 20:59:30 | INFO     | gui.verification_window:_open_video:318 - Vidéo ouverte pour vérification
+2025-09-14 20:59:30 | INFO     | gui.main_window:_open_verification_window:543 - Fenêtre de vérification ouverte
+2025-09-14 22:26:59 | INFO     | utils.logger:setup_logger:51 - Logger initialisé - Niveau: INFO
+2025-09-14 22:26:59 | INFO     | utils.logger:setup_logger:52 - Fichier de log: C:\Users\David\Dev\Personal\Cam_detect\logs\cam_detect.log
+2025-09-14 22:26:59 | INFO     | __main__:main:37 - Démarrage de Cam_detect
+2025-09-14 22:26:59 | INFO     | utils.config_manager:load_config:45 - Configuration chargée depuis: C:\Users\David\Dev\Personal\Cam_detect\config\config.yaml
+2025-09-14 22:26:59 | INFO     | __main__:main:47 - Lancement de l'interface utilisateur
+2025-09-14 22:26:59 | INFO     | gui.main_window:run:653 - Interface utilisateur démarrée
+2025-09-15 08:51:08 | INFO     | utils.logger:setup_logger:51 - Logger initialisé - Niveau: INFO
+2025-09-15 08:51:08 | INFO     | utils.logger:setup_logger:52 - Fichier de log: C:\Users\David\Dev\Personal\Cam_detect\logs\cam_detect.log
+2025-09-15 08:51:08 | INFO     | __main__:main:37 - Démarrage de Cam_detect
+2025-09-15 08:51:08 | INFO     | utils.config_manager:load_config:45 - Configuration chargée depuis: C:\Users\David\Dev\Personal\Cam_detect\config\config.yaml
+2025-09-15 08:51:08 | INFO     | __main__:main:47 - Lancement de l'interface utilisateur
+2025-09-15 08:51:08 | INFO     | gui.main_window:run:653 - Interface utilisateur démarrée
+2025-09-15 08:51:13 | INFO     | gui.main_window:_select_video:314 - Vidéo sélectionnée: 08H58M29S-14400WN-SO00.mp4
+2025-09-15 08:51:15 | INFO     | gui.main_window:_start_analysis:374 - Analyse démarrée
+2025-09-15 08:51:15 | INFO     | gui.main_window:_run_analysis:408 - Analyse simulée démarrée (version temporaire)
+2025-09-15 08:51:15 | INFO     | gui.temp_analysis_fix:run_simple_analysis:28 - Analyse démarrée: 3616 frames, 20.128026718619537 FPS
+2025-09-15 08:52:00 | INFO     | gui.temp_analysis_fix:run_simple_analysis:244 - Analyse terminée: 185 frames avec détections
+2025-09-15 08:52:16 | INFO     | gui.verification_window:_prepare_detections_data:61 - Préparation des données de détections par classe
+2025-09-15 08:52:16 | INFO     | gui.verification_window:_prepare_detections_data:96 - Classes trouvées: ['person', 'truck', 'car', 'bus']
+2025-09-15 08:52:16 | INFO     | gui.verification_window:_prepare_detections_data:98 -   person: 72 détections
+2025-09-15 08:52:16 | INFO     | gui.verification_window:_prepare_detections_data:98 -   truck: 24 détections
+2025-09-15 08:52:16 | INFO     | gui.verification_window:_prepare_detections_data:98 -   car: 120 détections
+2025-09-15 08:52:16 | INFO     | gui.verification_window:_prepare_detections_data:98 -   bus: 39 détections
+2025-09-15 08:52:16 | INFO     | gui.verification_window:_open_video:318 - Vidéo ouverte pour vérification
+2025-09-15 08:52:16 | INFO     | gui.main_window:_open_verification_window:543 - Fenêtre de vérification ouverte
+2025-09-15 08:52:32 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: bus
+2025-09-15 08:52:34 | INFO     | gui.verification_window:_on_class_changed:304 - Classe changée vers: car
+2025-09-15 21:55:32 | INFO     | utils.logger:setup_logger:51 - Logger initialisé - Niveau: INFO
+2025-09-15 21:55:32 | INFO     | utils.logger:setup_logger:52 - Fichier de log: C:\Users\David\Dev\Personal\Cam_detect\logs\cam_detect.log
+2025-09-15 21:55:32 | INFO     | __main__:main:37 - Démarrage de Cam_detect
+2025-09-15 21:55:32 | INFO     | utils.config_manager:load_config:45 - Configuration chargée depuis: C:\Users\David\Dev\Personal\Cam_detect\config\config.yaml
+2025-09-15 21:55:33 | INFO     | __main__:main:47 - Lancement de l'interface utilisateur
+2025-09-15 21:55:33 | INFO     | gui.main_window:run:653 - Interface utilisateur démarrée
